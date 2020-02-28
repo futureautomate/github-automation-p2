@@ -2,7 +2,7 @@
 
 # This repo is created automatically.....its awsome...!!
 
-### video link - https://youtu.be/X6Hv1c35kUc
+### video link - https://youtu.be/x-H__19ZVRY
 
 Welcome to Git Hub Automation Part 2. In this video we will cover, how to create a repo using selenium and python. I wasnted to complete the tute in 2 videos but uploading and cloning will take some time. We will cover it in upcoming videos. The code is pretty simple and easy to understand. 
 
